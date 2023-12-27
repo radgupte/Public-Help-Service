@@ -1,6 +1,6 @@
 # Public-Help-Service
 
-Welcome to the PUblic Help Service Prototype repository. This Figma prototype is designed to provide a high-fidelity user experience for a mobile application aimed at connecting individuals in need with those willing to help.
+Welcome to the Public Help Service Prototype repository. This Figma prototype is designed to provide a high-fidelity user experience for a mobile application aimed at connecting individuals in need with those willing to help.
 
 ## Table of Contents
 
