@@ -12,7 +12,7 @@ Welcome to the Public Help Service Prototype repository. This Figma prototype is
 
 ## Purpose
 
-The purpose of this project is to create a user-friendly and accessible mobile application prototype that facilitates crowsdourcing of tasks or chores, specifically catering to individuals in need, such as senir citizens, physically disabled individuals, people with low income seeking extra work, and those in rehabilitation requiring additional income and work opportunities.
+The purpose of this project is to create a user-friendly and accessible mobile application prototype that facilitates crowdsourcing of tasks or chores, specifically catering to individuals in need, such as senior citizens, physically disabled individuals, people with low income seeking extra work, and those in rehabilitation requiring additional income and work opportunities.
 
 ## Target Audience
 
